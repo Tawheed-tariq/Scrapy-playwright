@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/exercise/list_basic_detail/90008-E/", 
+        "image": "/static/img/90008-E.jpg", 
+        "name": "Short Dress", 
+        "price": "$24.99"
+    },
+    {
+        "url": "/exercise/list_basic_detail/96436-A/", 
+        "image": "/static/img/96436-A.jpg", 
+        "name": "Patterned Slacks", 
+        "price": "$29.99"
+    },
+{"url": "/exercise/list_basic_detail/93926-B/", "image": "/static/img/93926-B.jpg", "name": "Short Chiffon Dress", "price": "$49.99"},
+{"url": "/exercise/list_basic_detail/90882-B/", "image": "/static/img/90882-B.jpg", "name": "Off-the-shoulder Dress", "price": "$59.99"},
+{"url": "/exercise/list_basic_detail/93756-C/", "image": "/static/img/93756-C.jpg", "name": "V-neck Top", "price": "$24.99"},
+{"url": "/exercise/list_basic_detail/93926-C/", "image": "/static/img/93926-C.jpg", "name": "Short Chiffon Dress", "price": "$49.99"},
+{"url": "/exercise/list_basic_detail/93756-B/", "image": "/static/img/93756-B.jpg", "name": "V-neck Top", "price": "$24.99"},
+{"url": "/exercise/list_basic_detail/93756-D/", "image": "/static/img/93756-D.jpg", "name": "V-neck Top", "price": "$24.99"},
+{"url": "/exercise/list_basic_detail/96643-A/", "image": "/static/img/96643-A.jpg", "name": "Short Lace Dress", "price": "$59.99"},
+{"url": "/exercise/list_basic_detail/94766-A/", "image": "/static/img/94766-A.jpg", "name": "Fitted Dress", "price": "$34.99"},
+{"url": "/exercise/list_basic_detail/91696-C/", "image": "/static/img/91696-C.jpg", "name": "V-neck Jumpsuit", "price": "$69.99"},
+{"url": "/exercise/list_basic_detail/93745-A/", "image": "/static/img/93745-A.jpg", "name": "Chiffon Dress", "price": "$54.99"},
+{"url": "/exercise/list_basic_detail/65763-E/", "image": "/static/img/65763-E.jpg", "name": "Skinny High Waist Jeans", "price": "$39.99"},
+{"url": "/exercise/list_basic_detail/70745-D/", "image": "/static/img/70745-D.jpg", "name": "Super Skinny High Jeans", "price": "$19.99"},
+{"url": "/exercise/list_basic_detail/94706-A/", "image": "/static/img/94706-A.jpg", "name": "Oversized Denim Jacket", "price": "$19.99"},
+{"url": "/exercise/list_basic_detail/96230-B/", "image": "/static/img/96230-B.jpg", "name": "Short Sweatshirt", "price": "$24.99"},
+{"url": "/exercise/list_basic_detail/73840-F/", "image": "/static/img/73840-F.jpg", "name": "Long-sleeved Jersey Top", "price": "$12.99"},
+{"url": "/exercise/list_basic_detail/65763-A/", "image": "/static/img/65763-A.jpg", "name": "Skinny High Waist Jeans", "price": "$39.99"},
+{"url": "/exercise/list_basic_detail/96230-A/", "image": "/static/img/96230-A.jpg", "name": "Short Sweatshirt", "price": "$24.99"},
+{"url": "/exercise/list_basic_detail/73840-P/", "image": "/static/img/73840-P.jpg", "name": "Long-sleeved Jersey Top", "price": "$12.99"},
+{"url": "/exercise/list_basic_detail/73840-Q/", "image": "/static/img/73840-Q.jpg", "name": "Long-sleeved Jersey Top", "price": "$12.99"},
+{"url": "/exercise/list_basic_detail/96113-C/", "image": "/static/img/96113-C.jpg", "name": "Jersey Dress", "price": "$19.99"},
+{"url": "/exercise/list_basic_detail/96230-C/", "image": "/static/img/96230-C.jpg", "name": "Short Sweatshirt", "price": "$24.99"},
+{"url": "/exercise/list_basic_detail/00959-A/", "image": "/static/img/00959-A.jpg", "name": "Crinkled Flounced Blouse", "price": "$24.99"},
+{"url": "/exercise/list_basic_detail/94323-B/", "image": "/static/img/94323-B.jpg", "name": "Bib Overall Dress", "price": "$29.99"},
+{"url": "/exercise/list_basic_detail/71342-J/", "image": "/static/img/71342-J.jpg", "name": "Loose-knit Sweater", "price": "$17.99"},
+{"url": "/exercise/list_basic_detail/94453-B/", "image": "/static/img/94453-B.jpg", "name": "Skinny Regular Jeans", "price": "$29.99"},
+{"url": "/exercise/list_basic_detail/34975-K/", "image": "/static/img/34975-K.jpg", "name": "Henley-style Top", "price": "$12.99"},
+{"url": "/exercise/list_basic_detail/59851-A/", "image": "/static/img/59851-A.jpg", "name": "Joggers", "price": "$17.99"},
+{"url": "/exercise/list_basic_detail/93811-A/", "image": "/static/img/93811-A.jpg", "name": "Skirt with Lacing", "price": "$34.99"}
+]
